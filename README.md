@@ -1,27 +1,25 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Siyabonga%20Mlambo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Quantitative%20Risk%20%7C%20Explainable%20AI%20Researcher&descAlignY=58&descSize=17&descColor=c8c4ff&animation=fadeIn" alt="Siyabonga Mlambo — Data Scientist" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6ff7&height=200&section=header&text=Sya%20Mlambo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Quantitative%20Risk%20%7C%20Explainable%20AI%20Researcher&descAlignY=58&descSize=16&descColor=c8c4ff&animation=fadeIn" alt="Header" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=7C6FF7&center=true&vCenter=true&multiline=false&width=650&lines=Building+ML+systems+that+explain+themselves+%F0%9F%A4%96;MSc+Candidate+%40+Sol+Plaatje+University+%F0%9F%8E%93;Credit+Risk+%7C+XAI+%7C+SHAP+%7C+Power+BI+%7C+Streamlit;Turning+raw+data+into+clear%2C+explainable+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&duration=3000&pause=800&color=7C6FF7&center=true&vCenter=true&multiline=false&width=600&lines=Building+ML+systems+that+explain+themselves;Credit+risk+%7C+XAI+%7C+Power+BI+%7C+Streamlit;Master%27s+researcher+in+Explainable+AI;Turning+raw+data+into+clear+decisions" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- BADGES ROW -->
+<!-- PROFILE VIEWS + FOLLOWERS -->
 <img src="https://komarev.com/ghpvc/?username=syamlambo&label=Profile+views&color=7c6ff7&style=flat-square" alt="Profile views"/>
 &nbsp;
 <a href="https://github.com/syamlambo?tab=followers">
   <img src="https://img.shields.io/github/followers/syamlambo?label=Followers&style=flat-square&color=7c6ff7" alt="Followers"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-Explainable%20AI-2dd4a8?style=flat-square" alt="Focus: Explainable AI"/>
+<img src="https://img.shields.io/badge/Focus-Explainable%20AI-2dd4a8?style=flat-square" alt="Focus"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-f5a623?style=flat-square" alt="Open to opportunities"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Based%20in-South%20Africa%20%F0%9F%87%BF%F0%9F%87%A6-white?style=flat-square" alt="South Africa"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-f5a623?style=flat-square" alt="Status"/>
 
 </div>
 
@@ -30,62 +28,18 @@
 ## 🧠 About Me
 
 ```python
-class SiyabongaMlambo:
-
-    def __init__(self):
-        self.name         = "Siyabonga Mlambo"
-        self.alias        = "Sya"
-        self.location     = "Kimberley, Northern Cape, South Africa 🇿🇦"
-        self.role         = "Data Scientist | Quantitative Risk Analyst | XAI Researcher"
-        self.education    = "MSc Computer & Information Science — Data Science"
-        self.university   = "Sol Plaatje University 🎓"
-        self.status       = "Master's Candidate · Thesis in progress"
-
-    def current_focus(self):
-        return {
-            "thesis"      : "Explainability in ML models for financial credit risk assessment",
-            "tools"       : ["SHAP", "XGBoost", "LightGBM", "Python"],
-            "question"    : "Can we make AI decisions in finance transparent AND accurate?",
-        }
-
-    def tech_stack(self):
-        return {
-            "languages"   : ["Python 🐍", "SQL", "R"],
-            "ml"          : ["Scikit-learn", "XGBoost", "LightGBM", "SHAP", "Prophet"],
-            "analytics"   : ["Power BI", "Excel", "Streamlit", "Plotly", "Pandas"],
-            "databases"   : ["PostgreSQL", "MySQL"],
-            "tools"       : ["Git", "Jupyter", "VS Code", "Google Cloud"],
-        }
-
-    def interests(self):
-        return [
-            "🔍 Explainable AI & model interpretability",
-            "🏦 Credit risk modelling & quantitative finance",
-            "📊 Data visualization & analytics dashboards",
-            "🤖 Machine learning engineering",
-            "🧪 Statistical modelling & research",
-            "💡 Anything that turns raw data into real decisions",
-        ]
-
-    def open_to(self):
-        return [
-            "Full-time data science roles",
-            "Research collaborations",
-            "Freelance analytics & ML projects",
-            "Open source contributions",
-        ]
-
-    @property
-    def philosophy(self):
-        return "A model no one understands is a model no one trusts."
-
-    def __str__(self):
-        return "Building AI that explains itself, one SHAP value at a time. 🚀"
-
-
-me = SiyabongaMlambo()
-print(me)
-# >>> Building AI that explains itself, one SHAP value at a time. 🚀
+sya = {
+    "name"        : "Siyabonga Mlambo",
+    "location"    : "South Africa 🇿🇦",
+    "role"        : "Data Scientist | Quantitative Risk Analyst",
+    "education"   : "MSc Computer and Information Science in Data Science (in progress)",
+    "interests"   : ["Explainable AI", "Credit Risk Modelling",
+                     "Analytics Dashboards", "ML Engineering", "Data  Visulization", "Anything related to Data Science"],
+    "currently"   : "Masters Candiate in Sol Plaatje ",
+    "open_to"     : ["Full-time roles", "Research collaborations",
+                     "Freelance analytics projects"],
+    "philosophy"  : "A model no one understands is a model no one trusts.",
+}
 ```
 
 ---
@@ -139,28 +93,18 @@ print(me)
 
 ## 🏆 Featured Projects
 
-<div align="center">
-
 <a href="https://github.com/syamlambo/credit-risk-xai">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=syamlambo&repo=credit-risk-xai&theme=tokyonight&border_color=7c6ff7&bg_color=0d0d1a&title_color=7c6ff7&text_color=9898b0&icon_color=2dd4a8" alt="Credit Risk XAI"/>
 </a>
 <a href="https://github.com/syamlambo/churn-prediction-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=syamlambo&repo=churn-prediction-app&theme=tokyonight&border_color=7c6ff7&bg_color=0d0d1a&title_color=7c6ff7&text_color=9898b0&icon_color=2dd4a8" alt="Churn Prediction App"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=syamlambo&repo=churn-prediction-app&theme=tokyonight&border_color=7c6ff7&bg_color=0d0d1a&title_color=7c6ff7&text_color=9898b0&icon_color=2dd4a8" alt="Churn App"/>
 </a>
 <a href="https://github.com/syamlambo/fraud-detection">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=syamlambo&repo=fraud-detection&theme=tokyonight&border_color=7c6ff7&bg_color=0d0d1a&title_color=7c6ff7&text_color=9898b0&icon_color=2dd4a8" alt="Fraud Detection"/>
 </a>
 <a href="https://github.com/syamlambo/ml-explainability-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=syamlambo&repo=ml-explainability-app&theme=tokyonight&border_color=7c6ff7&bg_color=0d0d1a&title_color=7c6ff7&text_color=9898b0&icon_color=2dd4a8" alt="ML Explainability App"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=syamlambo&repo=ml-explainability-app&theme=tokyonight&border_color=7c6ff7&bg_color=0d0d1a&title_color=7c6ff7&text_color=9898b0&icon_color=2dd4a8" alt="ML Explainability"/>
 </a>
-<a href="https://github.com/syamlambo/customer-analytics-sql">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=syamlambo&repo=customer-analytics-sql&theme=tokyonight&border_color=7c6ff7&bg_color=0d0d1a&title_color=7c6ff7&text_color=9898b0&icon_color=2dd4a8" alt="Customer Analytics SQL"/>
-</a>
-<a href="https://github.com/syamlambo/sales-forecasting">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=syamlambo&repo=sales-forecasting&theme=tokyonight&border_color=7c6ff7&bg_color=0d0d1a&title_color=7c6ff7&text_color=9898b0&icon_color=2dd4a8" alt="Sales Forecasting"/>
-</a>
-
-</div>
 
 ---
 
@@ -174,13 +118,12 @@ print(me)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-**Machine Learning & AI**
+**Machine Learning**
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-7c6ff7?style=for-the-badge&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-2dd4a8?style=for-the-badge&logoColor=white)
 
 **Data & Analytics**
 
@@ -218,7 +161,7 @@ print(me)
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=syamlambo&theme=tokyonight&border=7c6ff7&background=0d0d1a&stroke=7c6ff7&ring=7c6ff7&fire=f5a623&currStreakLabel=2dd4a8&sideLabels=9898b0&dates=9898b0&sideNums=e8e8f0&currStreakNum=e8e8f0" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syamlambo&theme=tokyonight&border=7c6ff7&background=0d0d1a&stroke=7c6ff7&ring=7c6ff7&fire=f5a623&currStreakLabel=2dd4a8&sideLabels=9898b0&dates=9898b0&sideNums=e8e8f0&currStreakNum=e8e8f0" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -226,10 +169,10 @@ print(me)
 ## 🎯 Current Focus
 
 ```
-📍 MSc Thesis        ████████████████████░░░░░░░  72%  Writing Chapter 4
-🔬 XAI Research      ████████████░░░░░░░░░░░░░░░  45%  Draft v2 in review  
-🌐 Portfolio Site    █████████████████████████░░  92%  Final polish
-📚 Currently reading "Interpretable Machine Learning" — Christoph Molnar
+📍 MSc Thesis      ████████████████████░░░░░░░  72% — Writing Chapter 4
+🔬 XAI Paper       ████████████░░░░░░░░░░░░░░░  45% — Draft v2 in review
+🚀 Portfolio Site  █████████████████████████░░  92% — Final polish
+📚 Reading         "Interpretable Machine Learning" — Christoph Molnar
 ```
 
 ---
@@ -244,8 +187,6 @@ print(me)
 - 📉 [Handling Class Imbalance in Fraud Detection](https://yourblog.com)
 <!-- BLOG-POST-LIST:END -->
 
-> ✍️ I write about ML, XAI, and data analytics. Articles coming soon on [Hashnode](https://hashnode.com) / [Medium](https://medium.com).
-
 ---
 
 ## 🤝 Let's Connect
@@ -256,23 +197,23 @@ print(me)
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:mrfaceoff01@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="mailto:sya@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://syamlambo.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-7c6ff7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-7c6ff7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/syamlambo">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 
 <br/><br/>
 
-| 💬 Open to | 📍 Location | 🎓 University |
-|:---:|:---:|:---:|
-| Full-time · Research · Freelance | Kimberley, South Africa 🇿🇦 | Sol Plaatje University |
+💬 **Open to:** Full-time roles · Research collaborations · Freelance analytics projects
 
-<br/>
-
-📧 **mrfaceoff01@gmail.com** &nbsp;·&nbsp; 🌐 **syamlambo.netlify.app**
+📧 **Reach me at:** sya@example.com
 
 </div>
 
@@ -280,10 +221,10 @@ print(me)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" alt="Footer" width="100%"/>
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6ff7&height=100&section=footer&animation=fadeIn" alt="Footer" width="100%"/>
 
 *"A model that no one understands is a model no one trusts."*
 
-**— Siyabonga Mlambo**
-
 </div>
+
